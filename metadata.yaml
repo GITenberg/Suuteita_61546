@@ -1,0 +1,22 @@
+_repo: Suuteita_61546
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reijonen, Juho Heikki
+    birthdate: 1855
+    deathdate: 1924
+    gutenberg_agent_id: '5712'
+    url: http://www.gutenberg.org/2009/agents/5712
+description: ''
+gutenberg_issued: '2020-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61546'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Suuteita
+url: http://www.gutenberg.org/ebooks/61546
